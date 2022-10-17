@@ -1,0 +1,41 @@
+.etichetta{
+	-fx-text-fill: white;
+    -fx-font-size: 14;
+}
+.bottone{
+    -fx-background-color:#BBBBBB;
+    -fx-text-fill: black;
+}
+.labelledTextField{
+    -fx-font-size: 14;
+    -fx-text-fill: white;
+    -fx-spacing: 10;
+    -fx-padding: 10 0 10 0;
+}
+.titolo{
+	-fx-text-fill: white;
+    -fx-font-size:20;
+    -fx-font-weight:bold;
+    -fx-padding: 10 5 10 5;
+}
+.errore{
+    -fx-text-fill:red; 
+    -fx-font-size:18;
+    -fx-font-weight:bold;
+    -fx-padding: 50 10 0 10;
+}
+.piano{
+    -fx-background-color:#111111;
+}
+.menu{
+	-fx-background-color:black;
+}
+.coordinata{
+	-fx-text-fill: white;
+}
+.asse, .tack{
+	-fx-stroke:white;
+}
+.slider .axis{
+    -fx-tick-label-fill: white; 
+}
