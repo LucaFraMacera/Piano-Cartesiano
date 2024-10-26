@@ -1,2 +1,2 @@
-# PianoCartesiano
-Programma in Java/JavaFX per la visualizzazione di funzioni matematiche su un piano cartesiano
+# Piano Cartesiano
+Little JavaFX desktop application to plot function on a plane.
